@@ -12,7 +12,7 @@ Bem-vindo ao **Dia 3** da nossa **Masterclass Power BI**! Neste dia, vamos concl
 ### 7. **Ajustes e Publicação da Dashboard (Power BI Serviço)**
 - **Objetivo**: Ajustar o dashboard conforme o feedback recebido e publicar no **Power BI Serviço**.
 
-### 8. **Surpresa **
+### 8. **Surpresa**
   
 ## 📂 O que você encontrará neste repositório?
 
