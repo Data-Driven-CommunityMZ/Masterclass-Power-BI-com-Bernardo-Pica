@@ -3,14 +3,13 @@
 Bem-vindo ao repositório oficial da **Masterclass Power BI**! Aqui você encontrará todos os materiais necessários para aprender a **analisar dados**, criar **dashboards interativos** e tomar **decisões estratégicas** com o Power BI.  
 
 ## 📅 Datas e Horário  
-📆 **10, 12 e 14 de março**  
-⏰ **20h (horário de Brasília)**  
+📆 **10, 12 e 14 de marçon 2025**  
+⏰ **20h**  
 📍 **Google Meet – 100% online e gratuito!**  
 
 ## 📂 O que você encontrará neste repositório?  
 📊 **Datasets exclusivos** para prática  
-📜 **Material de apoio e templates prontos**  
-📹 **Aulas gravadas** (se disponíveis)  
+📜 **Material de apoio**  
 📖 **Recursos extras para aprofundamento**  
 
 ## 🛠 Como usar este repositório?  
