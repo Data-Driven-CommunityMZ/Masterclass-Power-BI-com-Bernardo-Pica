@@ -22,10 +22,6 @@ A **AgroVida** é uma empresa moçambicana especializada na venda de insumos agr
 - Quais são as **tendências de crescimento ou declínio das vendas** ao longo do tempo?
 - Quais são as **margens de lucro por produto e unidade de negócio**, e como elas variam entre diferentes regiões?
 
-## 📂 O que você encontrará neste repositório?  
-📊 **Datasets exclusivos** para prática com a AgroVida  
-📜 **Material de apoio e templates prontos** para o desenvolvimento do dashboard  
-📖 **Recursos extras** sobre Power BI, DAX, Power Query e mais
 
 ## 🔑 Etapas da Masterclass
 1. **Entendimento de problema de negócio**  
