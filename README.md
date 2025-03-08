@@ -39,5 +39,4 @@ A **AgroVida** é uma empresa moçambicana especializada na venda de insumos agr
 ## 🛠 Como usar este repositório?  
 1. Clone este repositório:  
    ```bash
-   git clone [https://github.com/seuusuario/masterclass-powerbi.git](https://github.com/seuusuario/masterclass-powerbi.git])
-   
+   git clone https://github.com/seuusuario/masterclass-powerbi.git]
