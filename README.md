@@ -22,7 +22,7 @@ A **AgroVida** é uma empresa moçambicana especializada na venda de insumos agr
 - Quais são as **margens de lucro por produto e unidade de negócio**, e como elas variam entre diferentes regiões?
 
 
-## 🔑 Fases da Masterclass
+## Fases da Masterclass
 1. **Entendimento de problema de negócio**  
 2. **Levantamento de requisitos**  
 3. **Validação de dados** (disponibilidade)  
@@ -32,7 +32,7 @@ A **AgroVida** é uma empresa moçambicana especializada na venda de insumos agr
 7. **Ajustes e Publicação da Dashboard** (Power BI Serviço)
 8. **Surpresa**
 
-## 🛠 Como usar este repositório?  
+## Como usar este repositório?  
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/Data-Driven-CommunityMZ/Masterclass-Power-BI.git
