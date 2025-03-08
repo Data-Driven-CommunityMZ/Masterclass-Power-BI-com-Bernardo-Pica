@@ -35,7 +35,6 @@ A **AgroVida** é uma empresa moçambicana especializada na venda de insumos agr
 5. **Desenvolvimento** (ETL + Modelagem e DataViz - Power Query + DAX + Power BI)  
 6. **Apresentação da solução** e recolha de feedback  
 7. **Ajustes e Publicação da Dashboard** (Power BI Serviço)  
-8. **Surpresa: O que fazer a seguir?**
 
 ## 🛠 Como usar este repositório?  
 1. Clone este repositório:  
