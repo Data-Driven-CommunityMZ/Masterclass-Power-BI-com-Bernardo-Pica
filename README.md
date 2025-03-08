@@ -7,7 +7,7 @@ Através desta experiência, você aprenderá a transformar dados em **informaç
 ## 📅 Datas e Horário  
 📆 **10, 12 e 14 de março de 2025**  
 ⏰ **20h**  
-📍 **Google Meet – 100% online e gratuito!**  
+📍 **Google Meet – 100% online e gratuito!** 
 
 ## 🎯 Objetivo da Masterclass  
 A **AgroVida** é uma empresa moçambicana especializada na venda de insumos agrícolas e equipamentos para o setor agrícola. O objetivo da Masterclass é migrar os relatórios e análises para o **Power BI** para criar dashboards dinâmicos, visualmente atrativos e que ajudem a equipe de gestão a tomar decisões estratégicas com agilidade.
@@ -39,4 +39,4 @@ A **AgroVida** é uma empresa moçambicana especializada na venda de insumos agr
 ## 🛠 Como usar este repositório?  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seuusuario/masterclass-powerbi.git]
+   git clone https://github.com/Data-Driven-CommunityMZ/Masterclass-Power-BI.git
