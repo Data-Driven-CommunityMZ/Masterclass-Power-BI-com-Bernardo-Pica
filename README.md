@@ -5,7 +5,7 @@ Bem-vindo ao repositório oficial da **Masterclass Power BI**! Esta Masterclass 
 Através desta experiência, você aprenderá a transformar dados em **informações estratégicas** e criar soluções dinâmicas para a **gestão de vendas**, análise de **desempenho de colaboradores** e monitoramento da **performance de produtos e unidades de negócio**.
 
 ## 📅 Datas e Horário  
-📆 **10, 12 e 14 de março 2025**  
+📆 **10, 12 e 14 de março de 2025**  
 ⏰ **20h**  
 📍 **Google Meet – 100% online e gratuito!**  
 
