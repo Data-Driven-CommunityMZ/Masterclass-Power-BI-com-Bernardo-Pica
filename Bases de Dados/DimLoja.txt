@@ -1,0 +1,16 @@
+ID Loja	Nome da Loja	Localização (Cidade/Distrito, Província)
+1	AgroVida Dombe	Dombe, Manica
+2	AgroVida Chimoio	Chimoio, Manica
+3	AgroVida Murrupula	Murrupula, Nampula
+4	AgroVida Nampula	Nampula, Nampula
+5	AgroVida Maputo	Maputo, Maputo Cidade
+6	AgroVida Matola	Matola, Maputo Província
+7	AgroVida Beira	Beira, Sofala
+8	AgroVida Tete	Tete, Tete
+9	AgroVida Quelimane	Quelimane, Zambézia
+10	AgroVida Xai-Xai	Xai-Xai, Gaza
+11	AgroVida Inhambane	Inhambane, Inhambane
+12	AgroVida Lichinga	Lichinga, Niassa
+13	AgroVida Pemba	Pemba, Cabo Delgado
+14	AgroVida Gurué	Gurué, Zambézia
+15	AgroVida Maxixe	Maxixe, Inhambane
