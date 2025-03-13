@@ -98,11 +98,11 @@ Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power 
 📌 **Aula 02 – Criação, Apresentação e Desenvolvimento no Power BI**
 🔹 **Tópicos abordados:**
 
--**Protótipo no Figma:** Criação e validação do layout interativo do dashboard.
--**Limpeza de Dados no Power Query:** Tratamento de duplicatas, valores ausentes e formatação.
--**Modelagem de Dados:** Construção de modelo Estrela e Floco de Neve.
--**Criação de Medidas no DAX:** Cálculo de métricas como Vendas Totais e Performance de Produtos.
--**Estruturação do Dashboard:** Organização das visualizações no Power BI.
+- **Protótipo no Figma:** Criação e validação do layout interativo do dashboard.
+- **Limpeza de Dados no Power Query:** Tratamento de duplicatas, valores ausentes e formatação.
+- **Modelagem de Dados:** Construção de modelo Estrela e Floco de Neve.
+- **Criação de Medidas no DAX:** Cálculo de métricas como Vendas Totais e Performance de Produtos.
+- **Estruturação do Dashboard:** Organização das visualizações no Power BI.
 
 🔹 Principais Visualizações:
 📊 Gráficos interativos (barras, linhas, mapas)
