@@ -82,17 +82,30 @@ Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power 
 
 ### 📌 **Aula 01 – Introdução ao Power BI e Conceitos Fundamentais**  
 🔹 **Tópicos abordados:**  
-- O **bê-a-bá do campo de dados**: Engenharia de Dados, Análise de Dados e Ciência de Dados  
-- Como o **Power BI** se encaixa nesse ecossistema  
-- Download e instalação do **Power BI Desktop**  
-- Criação de uma conta gratuita na Microsoft  
-- Navegação e apresentação da interface  
+- O **bê-a-bá do campo de dados**: Engenharia de Dados, Análise de Dados e Ciência de Dados.
+- Como o **Power BI** se encaixa nesse ecossistema.
+- Download e instalação do **Power BI Desktop**. 
+- Criação de uma conta gratuita na Microsoft.  
+- Navegação e apresentação da interface.
 
 - **Gravação da Aula 01:** [🔗 Assistir no YouTube](https://youtu.be/3KoPy50LXak?si=XTdSMAh9dZzlGlnZ)  
 - **Microsoft Store:** [Clique aqui](https://apps.microsoft.com/detail/9ntxr16hnw1t?hl=en-us&gl=US&ocid=pdpshare)
 - **Download manual no site:** [Clique aqui](https://www.microsoft.com/en-us/download/details.aspx?id=58494&msockid=13181f73876e6fb12a190d36836e61c4)
 - **Criar conta gratuita no Power BI Service:** [Clique aqui](https://www.microsoft.com/pt-br/microsoft-365/business)
 
+---
+
+📌 **Aula 02 – Criação, Apresentação e Desenvolvimento no Power BI**
+🔹 **Tópicos abordados:**
+-**Protótipo no Figma:** Criação e validação do layout interativo do dashboard.
+-**Limpeza de Dados no Power Query:** Tratamento de duplicatas, valores ausentes e formatação.
+-**Modelagem de Dados:** Construção de modelo Estrela e Floco de Neve.
+-**Criação de Medidas no DAX:** Cálculo de métricas como Vendas Totais e Performance de Produtos.
+-**Estruturação do Dashboard:** Organização das visualizações no Power BI.
+
+🔹 Principais Visualizações:
+📊 Gráficos interativos (barras, linhas, mapas)
+📈 KPIs de vendas, desempenho e sazonalidade
 ---
 
 ## 🌍 **Conecte-se com a Data Driven Community**  
