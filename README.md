@@ -104,9 +104,9 @@ Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power 
 - **Criação de Medidas no DAX:** Cálculo de métricas como Vendas Totais e Performance de Produtos.
 - **Estruturação do Dashboard:** Organização das visualizações no Power BI.
 
-🔹 Principais Visualizações:
-📊 Gráficos interativos (barras, linhas, mapas)
-📈 KPIs de vendas, desempenho e sazonalidade
+🔹 Principais Visualizações: 
+📊  Gráficos interativos (barras, linhas, mapas)
+📈  KPIs de vendas, desempenho e sazonalidade
 ---
 
 ## 🌍 **Conecte-se com a Data Driven Community**  
