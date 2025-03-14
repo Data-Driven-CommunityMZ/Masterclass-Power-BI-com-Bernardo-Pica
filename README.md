@@ -109,7 +109,7 @@ Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power 
 - 📊  Gráficos interativos (barras, linhas, mapas)
 - 📈  KPIs de vendas, desempenho e sazonalidade
 
-- **Gravação da Aula 01:** [🔗 Assistir no YouTube]([https://youtu.be/3KoPy50LXak?si=XTdSMAh9dZzlGlnZ](https://youtu.be/9T71Y6f69JI?si=ZDhWpkRBReft_50Q))  
+- **Gravação da Aula 02:** [🔗 Assistir no YouTube](https://youtu.be/9T71Y6f69JI?si=ZDhWpkRBReft_50Q)  
 ---
 
 ## 🌍 **Conecte-se com a Data Driven Community**  
