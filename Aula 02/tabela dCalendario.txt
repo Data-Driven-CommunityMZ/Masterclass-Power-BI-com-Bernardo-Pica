@@ -1,0 +1,22 @@
+dCalendario =  
+ADDCOLUMNS ( 
+    // Define o intervalo de datas 
+    CALENDAR ( DATE(2020, 1, 1), DATE(2030, 12, 31) ), 
+
+    // Colunas calculadas 
+    "Ano", YEAR([Date]), 
+    "NúmeroMês", MONTH([Date]), 
+    "NomeMês", FORMAT([Date], "MMMM"), // Nome completo 
+    "MêsAbreviado", FORMAT([Date], "MMM"), // Abreviação de 3 letras 
+    "Dia", DAY([Date]), 
+    "DiaDaSemana", FORMAT([Date], "DDDD"), // Nome completo 
+    "DiaSemanaAbreviado", FORMAT([Date], "DDD"), // Abreviação de 3 letras 
+    "NúmeroDiaSemana", WEEKDAY([Date], 2), // Segunda = 1 a Domingo = 7 
+    "Trimestre", "T" & FORMAT([Date], "Q"), 
+    "NúmeroTrimestre", FORMAT([Date], "Q"), 
+    "AnoTrimestre", FORMAT([Date], "YYYY") & "-T" & FORMAT([Date], "Q"), 
+    "SemanaAno", WEEKNUM([Date], 2), // ISO 8601 (Semana começa na Segunda) 
+    "Semestre", IF(MONTH([Date]) <= 6, 1, 2), 
+    "FimDeSemana", IF(WEEKDAY([Date], 2) >= 6, "Sim", "Não"), 
+    "DiaDoAno", DATEDIFF(DATE(YEAR([Date]), 1, 1), [Date], DAY) + 1 
+) 
