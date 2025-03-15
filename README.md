@@ -96,7 +96,7 @@ Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power 
 
 ---
 
-📌 **Aula 02 – Criação, Apresentação e Desenvolvimento no Power BI**
+### 📌 **Aula 02 – Criação, Apresentação e Desenvolvimento no Power BI**
 
 🔹 **Tópicos abordados:**
 
@@ -115,7 +115,7 @@ Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power 
 - **Gravação da Aula 02:** [🔗 Assistir no YouTube](https://youtu.be/9T71Y6f69JI?si=ZDhWpkRBReft_50Q)
 - **Tabela dCalendario[Código]:** [Clique aqui](https://github.com/Data-Driven-CommunityMZ/Masterclass-Power-BI-com-Bernardo-Pica/blob/main/Aula%2002/tabela%20dCalendario.txt)
 ---
-📌 **Aula 03 – Desenvolvimento e Visualização de Dados no Power BI**
+### 📌 **Aula 03 – Desenvolvimento e Visualização de Dados no Power BI**
 
 🔹 **Tópicos abordados:**
 
