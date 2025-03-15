@@ -80,7 +80,8 @@ Para acessar todos os materiais da Masterclass, siga os passos abaixo:
 
 Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power BI - 1ª Edição**, além de links importantes para acompanhar os materiais e conteúdos abordados.  
 
-### 📌 **Aula 01 – Introdução ao Power BI e Conceitos Fundamentais**  
+### 📌 **Aula 01 – Introdução ao Power BI e Conceitos Fundamentais** 
+
 🔹 **Tópicos abordados:**  
 - O **bê-a-bá do campo de dados**: Engenharia de Dados, Análise de Dados e Ciência de Dados.
 - Como o **Power BI** se encaixa nesse ecossistema.
@@ -96,6 +97,7 @@ Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power 
 ---
 
 📌 **Aula 02 – Criação, Apresentação e Desenvolvimento no Power BI**
+
 🔹 **Tópicos abordados:**
 
 - **Protótipo no Figma:** Criação e validação do layout interativo do dashboard.
