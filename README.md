@@ -116,12 +116,13 @@ Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power 
 - **Tabela dCalendario[Código]:** [Clique aqui](https://github.com/Data-Driven-CommunityMZ/Masterclass-Power-BI-com-Bernardo-Pica/blob/main/Aula%2002/tabela%20dCalendario.txt)
 ---
 📌 **Aula 03 – Desenvolvimento e Visualização de Dados no Power BI**
+
 🔹 **Tópicos abordados:**
 
 - **Criação de gráficos essenciais para a análise de desempenho.**
 - **Aperfeiçoamento dos dados para tornar as análises mais intuitivas.**
 - **Exploração de técnicas avançadas de visualização no Power BI.**
-- **Destaque da aula: Gráfico “Txobobo” 🎨📊.**
+- **Destaque da aula: Gráfico “Txobobo” .**
   
 
 **🔹Recursos**
