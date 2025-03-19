@@ -129,6 +129,17 @@ Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power 
 - **Gravação da Aula 03:** [🔗 Assistir no YouTube](https://www.youtube.com/watch?v=EmtNv8vI64Q)
 ---
 
+### **📌 Aula Bónus – Finalização e Publicação do Dashboard**
+
+🔹 **Tópicos abordados:**
+- **Ajustes finais e revisão das visualizações.**
+- **Optimização do dashboard para melhor clareza e eficiência.**
+- **Publicação no Power BI Service para acesso online.**
+
+**🔹Recursos**
+- **Gravação da Aula Bónus:** [🔗 Assistir no YouTube](https://www.youtube.com/watch?v=i-rkk64Fzuk&t=8014s)
+---
+
 🎥 Perdeu alguma aula? Veja a playlist completa e continue a aprofundar os seus conhecimentos em Power BI! [🔗 Playlist](https://youtube.com/playlist?list=PLG95JqT4MH0usQz2WjoRvwQNgZvJgOCQt&si=jdnPZDXp-1qzhZnT) 
 
 ## 🌍 **Conecte-se com a Data Driven Community**  
