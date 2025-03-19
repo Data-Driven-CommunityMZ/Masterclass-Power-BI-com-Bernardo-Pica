@@ -138,6 +138,7 @@ Nesta secção, você encontrará um resumo de cada aula da **Masterclass Power 
 
 **🔹Recursos**
 - **Gravação da Aula Bónus:** [🔗 Assistir no YouTube](https://www.youtube.com/watch?v=i-rkk64Fzuk&t=8014s)
+- **Aceda ao dashboard publicado no Power BI Service:** [🔗 Clique aqui](https://app.powerbi.com/view?r=eyJrIjoiNzlmNWQyNDUtZmYzNi00Y2VmLThiNjEtZWJiOGU5ZjA4MzRjIiwidCI6IjlkYmQxMWQwLTNiNGQtNDNkNi05YTliLTNmNzZjZjkxMzI2NyJ9)
 ---
 
 🎥 Perdeu alguma aula? Veja a playlist completa e continue a aprofundar os seus conhecimentos em Power BI! [🔗 Playlist](https://youtube.com/playlist?list=PLG95JqT4MH0usQz2WjoRvwQNgZvJgOCQt&si=jdnPZDXp-1qzhZnT) 
